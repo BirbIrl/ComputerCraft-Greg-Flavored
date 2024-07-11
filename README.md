@@ -1,2 +1,2 @@
 # Computer-Craft-Greg-Flavored
-Making your Computer Craft puters greggy
+Making your ComputerCraft puters greggy
