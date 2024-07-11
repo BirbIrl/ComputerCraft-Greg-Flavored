@@ -5,6 +5,7 @@
         "particle": "#case",
         "screen": "computercraft:block/monitor_screen",
 	"case": "computercraft:block/mv_case",
+	"overlay": "computercraft:block/monitor_normal_front",
 	"case_pattern": "computercraft:block/mv_case_pattern"
     },
     "elements": [
@@ -19,6 +20,14 @@
 				"up": {"uv": [0, 0, 16, 16], "texture": "#case"},
 				"down": {"uv": [16, 0, 0, 16], "texture": "#case"}
 			}
+		},
+		
+		{
+			"from": [0, 0, 0.05],
+			"to": [16, 16, 16],
+			"faces": {
+		"north": {"uv": [0, 0, 16, 16], "texture": "#overlay"}
+				}
 		}
 	]
 }
