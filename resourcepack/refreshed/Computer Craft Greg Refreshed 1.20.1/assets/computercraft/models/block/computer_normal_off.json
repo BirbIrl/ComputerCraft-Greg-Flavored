@@ -1,6 +1,6 @@
 {
 	"parent": "minecraft:block/orientable",
-        "render_type": "cutout",
+    "render_type": "cutout",
 	"textures": {
 		"case": "computercraft:block/mv_case",
 		"case_pattern": "computercraft:block/mv_case_pattern",
