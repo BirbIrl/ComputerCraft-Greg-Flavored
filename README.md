@@ -1,13 +1,15 @@
 # ComputerCraft-Greg-Flavored
-<center> <h2> ComputerCraft: Greg Flavored </h2> </center>
-<center> <img src="projectfiles/blender/renders/icon.png" alt="drawing" width="200"/></center>
-<center> <h4> Making your ComputerCraft puters extra greggy </h4> </center>
+<p align = "center"> <h2> ComputerCraft: Greg Flavored </h2> </p>
+<p align = "center"> <img src="projectfiles/blender/renders/animatedicon.apng" alt="drawing" width="200"/></p>
+<p align = "center">  <h4> Making your ComputerCraft puters extra greggy </h4> </p>
 
 
-<span style="color:red"> <b>Warning!</b> </span>**The resource pack doesn't feature turtles, and the KubeJS script removes them from the game!** Turtles are removed in most greg tech packs due to them completely breaking all progression, and adding them has proven to be too big of a headache for me so they're not included :<zero-width space>(
+**Warning! The resource pack doesn't feature turtles** Turtles are removed in most greg tech packs due to them completely breaking all progression, and adding them has proven to be too big of a headache for me so they're not included :<zero-width space>(. There is an (optional) KubeJS script in the repo that removes turtles !!here!!
 
+**ComputerCraft: Greg Flavored** is an easily customizable resource pack for [CC: Tweaked](https://github.com/cc-tweaked/CC-Tweaked) (required) that tries to fit the style of [GTCEu: Modern](https://github.com/GregTechCEu/GregTech-Modern) and [Greg Tech Refreshed](https://github.com/ULSTICK/GregTechRefreshed) (not required).
 
-**ComputerCraft: Greg Flavored** is a highly customizable resource (texture) pack for [CC: Tweaked](https://github.com/cc-tweaked/CC-Tweaked)
+***As Well*** as a set of [KubeJS scripts](https://github.com/KubeJS-Mods/KubeJS) used to integrate Computers into Greg Tech (not included in the curseforge/modirinth pages)
+
 
 
 
