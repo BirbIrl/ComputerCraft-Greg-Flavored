@@ -1,8 +1,6 @@
-# ComputerCraft-Greg-Flavored
-<h2 align = "center"> ComputerCraft: Greg Flavored </h2>
-<p align = "center"> <img src="projectfiles/blender/renders/animatedicon.apng" alt="drawing" width="200"/></p>
-<h4 align = "center"> Making your ComputerCraft puters extra greggy </h4>
-
+<h1 align = "center"> ComputerCraft: Greg Flavored
+<p></p>
+<p align = "center"> <img src="projectfiles/blender/renders/animatedicon.apng" alt="drawing" width="200"/></p></h1>
 
 **Warning! The resource pack doesn't feature turtles** Turtles are removed in most greg tech packs due to them completely breaking all progression, and adding them has proven to be too big of a headache for me so they're not included :<zero-width space>(. There is an (optional) KubeJS script in the repo that removes turtles !!here!!
 
