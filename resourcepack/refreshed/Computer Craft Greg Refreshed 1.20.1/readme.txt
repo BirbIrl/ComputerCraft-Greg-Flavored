@@ -4,7 +4,7 @@ Oh yeah, if you're looking for turtle textures - there is none. if you're playin
 
 Most of the textures are modified GregTechRefreshed textures made by ULSTICK (thank you!)
 
-This pack borrows some infrastructure from End_Rage's super cool computer craft create texture pack. If a json is signed by them - it was originally theirs and was probably modified by modified
+This pack borrows some infrastructure from End_Rage's super cool computer craft create texture pack. If a json is signed by them - it was originally theirs and was probably modified by me!
 
 If you make any tweaks or changes feel free to message me at @Birbirl on discord/twitter so i can update the pack for everyone. Thanks for checking this out!
                      
