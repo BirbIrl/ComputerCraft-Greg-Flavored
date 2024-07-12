@@ -2,7 +2,7 @@
 <p></p>
 <p align = "center"> <img src="projectfiles/blender/renders/animatedicon.webp" alt="logo animation" width="200"/></p></h1>
 
-**Warning! This resource pack doesn't feature turtles** Turtles are removed in most GregTech packs due to them completely breaking all progression, and adding them has proven to be too big of a headache for me so they're not included :<zero-width space>(. There is an (optional) KubeJS script in the repo that removes turtles from jei and crafting [here](https://github.com/BirbIrl/ComputerCraft-Greg-Flavored/tree/main/KubeJS)
+**Warning! This resource pack doesn't feature turtles** Turtles are removed in most GregTech packs due to them completely breaking all progression, and changing their models has proven to be too big of a headache for me so they're not included :<zero-width space>(. There is an (optional) KubeJS script in the repo that removes turtles from jei and crafting [here](https://github.com/BirbIrl/ComputerCraft-Greg-Flavored/tree/main/KubeJS)
 
 
 
