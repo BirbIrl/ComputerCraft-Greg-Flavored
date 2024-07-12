@@ -18,7 +18,7 @@ If you're on **Fabric**, [Iris](https://github.com/IrisShaders/Iris) is required
 
 
 
-CC:GF is ***Also*** as a set of [KubeJS scripts](https://github.com/KubeJS-Mods/KubeJS) used to integrate Computers into GregTech that can be found [here](https://github.com/BirbIrl/ComputerCraft-Greg-Flavored/tree/main/KubeJS)
+CC:GF is ***Also*** as a set of [KubeJS scripts](https://github.com/KubeJS-Mods/KubeJS) used to integrate Computers into GregTech that can be found [here](https://github.com/BirbIrl/ComputerCraft-Greg-Flavored/tree/main/KubeJS), if you're playing a custom pack/a pack that doesn't manually add in computers, having the two scripts can help with balance and integrity. Just make sure your pack doens't already have recipie overrides for CC items :)
 
 
 
