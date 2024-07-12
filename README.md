@@ -2,7 +2,7 @@
 <p></p>
 <p align = "center"> <img src="projectfiles/blender/renders/animatedicon.webp" alt="logo animation" width="200"/></p></h1>
 
-**Warning! This resource pack doesn't feature turtles** Turtles are removed in most GregTech packs due to them completely breaking all progression, and changing their models has proven to be too big of a headache for me so they're not included :<zero-width space>(. There is an (optional) KubeJS script in the repo that removes turtles from jei and crafting [here](https://github.com/BirbIrl/ComputerCraft-Greg-Flavored/tree/main/KubeJS)
+**Warning! This resource pack doesn't feature turtles** Turtles are removed in most GregTech packs due to them completely breaking all progression, and changing their models has proven to be too big of a headache for me so they're not included :<zero-width space>(. There is an optional [KubeJS](https://github.com/KubeJS-Mods/KubeJS)  script in the repo that removes turtles from jei and crafting [here](https://github.com/BirbIrl/ComputerCraft-Greg-Flavored/tree/main/KubeJS)
 
 
 
@@ -18,7 +18,7 @@ If you're on **Fabric**, [Iris](https://github.com/IrisShaders/Iris) is required
 
 
 
-CC:GF is ***Also*** as a set of [KubeJS scripts](https://github.com/KubeJS-Mods/KubeJS) used to integrate Computers into GregTech that can be found [here](https://github.com/BirbIrl/ComputerCraft-Greg-Flavored/tree/main/KubeJS), if you're playing a custom pack/a pack that doesn't manually add in computers, having the two scripts can help with balance and integrity. Just make sure your pack doens't already have recipie overrides for CC items :)
+CC:GF is ***Also*** as a set of [KubeJS](https://github.com/KubeJS-Mods/KubeJS) scripts used to integrate Computers into GregTech that can be found [here](https://github.com/BirbIrl/ComputerCraft-Greg-Flavored/tree/main/KubeJS), if you're playing a custom pack/a pack that doesn't manually add in computers, having the two scripts can help with balance and integrity. Just make sure your pack doens't already have recipie overrides for CC items :)
 
 
 
