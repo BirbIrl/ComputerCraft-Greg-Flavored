@@ -1,4 +1,4 @@
-//this removes the ability to craft turtles. comment me out if you wanna remove turtles. If you wanna keep this, make sure you have the "CCGFRemoveTurtlesJEI.js" script in client_scripts too!
+//this removes the ability to craft turtles. comment me out if you wanna keep turtles. If so, make sure you have the "CCGFRemoveTurtlesJEI.js" script in client_scripts too!
 ServerEvents.recipes(event => {
   event.remove({output: 'computercraft:turtle_advanced'})
   event.remove({output: 'computercraft:turtle_normal'})
