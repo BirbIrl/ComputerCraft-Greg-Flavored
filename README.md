@@ -1,6 +1,11 @@
 <h1 align = "center"> ComputerCraft: Greg Flavored
 <p></p>
-<p align = "center"> <img src="projectfiles/blender/renders/animatedicon.webp" alt="logo animation" width="200"/></p></h1>
+<p align = "center"> <img src="projectfiles/blender/renders/animatedicon.webp" alt="logo animation" width="200"/></p>
+<a href="[https://www.curseforge.com/minecraft/mc-mods/create](https://www.curseforge.com/minecraft/texture-packs/computercraft-greg-flavored)"><img src="http://cf.way2muchnoise.eu/computercraft-greg-flavored.svg" alt="CF"></a>
+<a href="[https://modrinth.com/mod/create](https://modrinth.com/resourcepack/computercraft-greg-flavored)"><img src="https://img.shields.io/modrinth/dt/computercraft-greg-flavored?logo=modrinth&label=&suffix=%20&style=flat&color=242629&labelColor=5ca424&logoColor=1c1c1c" alt="Modrinth"></a>
+</h1>
+
+
 
 **Warning! This resource pack doesn't feature turtles** Turtles are removed in most GregTech packs due to them completely breaking all progression, and changing their models has proven to be too big of a headache for me so they're not included :<zero-width space>(. There is an optional [KubeJS](https://github.com/KubeJS-Mods/KubeJS)  script in the repo that removes turtles from jei and crafting [here](https://github.com/BirbIrl/ComputerCraft-Greg-Flavored/tree/main/KubeJS)
 
