@@ -18,7 +18,7 @@ ServerEvents.recipes(event => {
   });
 
  event.remove({output: ('computercraft:computer_advanced')}) 
-  event.shaped("computercraft:computer_advanced", [" h ", "ckc", " b "], {
+  event.shaped("computercraft:computer_advanced", ["CMC", "WHW", "CWC"], {
 	C: "#gtceu:circuits/hv",
 	W: "gtceu:gold_single_cable",
 	M: "gtceu:digital_interface_cover",
