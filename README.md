@@ -1,8 +1,8 @@
 <h1 align = "center"> ComputerCraft: Greg Flavored
 <p></p>
 <p align = "center"> <img src="projectfiles/blender/renders/animatedicon.webp" alt="logo animation" width="200"/></p>
-<a href="[https://www.curseforge.com/minecraft/mc-mods/create](https://www.curseforge.com/minecraft/texture-packs/computercraft-greg-flavored)"><img src="http://cf.way2muchnoise.eu/computercraft-greg-flavored.svg" alt="CF"></a>
-<a href="[https://modrinth.com/mod/create](https://modrinth.com/resourcepack/computercraft-greg-flavored)"><img src="https://img.shields.io/modrinth/dt/computercraft-greg-flavored?logo=modrinth&label=&suffix=%20&style=flat&color=242629&labelColor=5ca424&logoColor=1c1c1c" alt="Modrinth"></a>
+<a href=https://www.curseforge.com/minecraft/texture-packs/computercraft-greg-flavored"><img src="http://cf.way2muchnoise.eu/computercraft-greg-flavored.svg" alt="CF"></a>
+<a href="https://modrinth.com/resourcepack/computercraft-greg-flavored"><img src="https://img.shields.io/modrinth/dt/computercraft-greg-flavored?logo=modrinth&label=&suffix=%20&style=flat&color=242629&labelColor=5ca424&logoColor=1c1c1c" alt="Modrinth"></a>
 </h1>
 
 
