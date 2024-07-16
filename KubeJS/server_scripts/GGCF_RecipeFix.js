@@ -138,3 +138,59 @@ event.remove({output: ('computercraft:disk')})
 
 
 });
+
+// Add recipes using GregTech machines
+ServerEvents.recipes(event => {
+    var greg = event.recipes.gtceu;
+
+    greg
+        .assembler("computercraft:assembler/pocket_computer_normal")
+        .itemInputs("2x #gtceu:circuits/mv", "computercraft:computer_normal", "#gtceu:batteries/mv")
+        .itemOutputs("computercraft:pocket_computer_normal")
+        .duration(400)
+        .EUt(120);
+
+    greg
+        .assembler("computercraft:assembler/pocket_computer_advanced")
+        .itemInputs("2x #gtceu:circuits/hv", "computercraft:computer_advanced", "#gtceu:batteries/hv")
+        .itemOutputs("computercraft:pocket_computer_advanced")
+        .duration(400)
+        .EUt(480);
+
+    greg
+        .assembler("computercraft:assembler/wired_modem")
+        .itemInputs("#gtceu:circuits/mv", "computercraft:cable", "gtceu:aluminium_plate")
+        .itemOutputs("computercraft:wired_modem")
+        .duration(200)
+        .EUt(120);
+
+    greg
+        .assembler("computercraft:assembler/wireless_modem_normal")
+        .itemInputs("gtceu:hv_emitter", "computercraft:wired_modem", "#gtceu:circuits/hv", "gtceu:hv_sensor", "2x gtceu:gold_single_cable")
+        .itemOutputs("computercraft:wireless_modem_normal")
+        .duration(300)
+        .EUt(480);
+
+    greg
+        .assembler("computercraft:assembler/wireless_modem_advanced")
+        .itemInputs("gtceu:ev_emitter", "computercraft:wired_modem", "#gtceu:circuits/ev", "gtceu:ev_sensor", "2x gtceu:aluminium_single_cable", "2x gtceu:ender_pearl_dust")
+        .itemOutputs("computercraft:wireless_modem_advanced")
+        .duration(400)
+        .EUt(480);
+
+    greg
+        .wiremill("computercraft:wiremill/cable")
+        .itemInputs("4x gtceu:copper_single_cable")
+        .itemOutputs("computercraft:cable")
+        .duration(80)
+        .EUt(300);
+
+    greg
+        .forming_press("computercraft:forming_press/disk")
+        .itemInputs("2x gtceu:polyethylene_plate", "gtceu:invar_plate")
+        .itemOutputs(Item.of("computercraft:disk").withNBT({
+            Color: 1118481,
+        }))
+        .duration(200)
+        .EUt(80);
+});
