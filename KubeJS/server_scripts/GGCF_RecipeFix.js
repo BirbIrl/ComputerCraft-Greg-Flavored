@@ -183,7 +183,7 @@ ServerEvents.recipes(event => {
         .itemInputs("4x gtceu:copper_single_cable")
         .itemOutputs("computercraft:cable")
         .duration(80)
-        .EUt(300);
+        .EUt(80);
 
     greg
         .forming_press("computercraft:forming_press/disk")
