@@ -290,19 +290,46 @@ ServerEvents.recipes(event => {
   D: "ae2:fluix_glass_cable",
   A: "gtceu:hv_robot_arm"
   });
+  }
   
-  if(Platform.mods.refinedstorage)
-  event.remove({ id: "advancedperipherals:rf_bridge"});
-  event.shaped("advancedperipherals:rf_bridge", ["WDW", "DHD", "CAC"], {
+  if(Platform.mods.refinedstorage) {
+  event.remove({ id: "advancedperipherals:rs_bridge"});
+  event.shaped("advancedperipherals:rs_bridge", ["WAW", "DHD", "CDC"], {
 	C: "#gtceu:circuits/hv",
 	W: "computercraft:cable",
 	H: "gtceu:hv_machine_hull",
   D: "ae2:fluix_glass_cable",
   A: "gtceu:hv_robot_arm"
   });
+  }
 
    //todo 
+  event.remove({ id: "advancedperipherals:energy_detector" });
+  event.shapeless("advancedperipherals:energy_detector", [
+    "gtceu:mv_diode", "#gtceu:circuits/mv"
+  ]);
+  
+  event.remove({ id: "advancedperipherals:block_reader" });
+  event.shaped("advancedperipherals:block_reader", ["DCW", "CHS", "DCW"], {
+	C: "#gtceu:circuits/mv",
+	W: "computercraft:cable",
+	H: "gtceu:mv_machine_hull",
+  S: "gtceu:mv_sensor",
+  D: "gtceu:diode"
+  });
+
+  event.remove({ id: "advancedperipherals:geo_scanner" });
+  event.shaped("advancedperipherals:geo_scanner", ["SES", "CHC", "WCW"], {
+	C: "#gtceu:circuits/mv",
+	W: "computercraft:cable",
+	H: "gtceu:mv_machine_hull",
+  S: "gtceu:mv_sensor",
+  E: "gtceu:mv_emitter"
+  });
+
+
 
 
 });
+
 }
