@@ -1,5 +1,3 @@
-const integrationAE2 = true;
-
 //this removes the ability to craft turtles. comment me out if you wanna keep turtles. If so, make sure you have the "CCGFRemoveTurtlesJEI.js" script in client_scripts too!
 ServerEvents.recipes(event => {
   event.remove({output: 'advancedperipherals:computer_tool'})
@@ -18,7 +16,7 @@ ServerEvents.recipes(event => {
   event.remove({output: 'advancedperipherals:overpowered_weak_automata_core'})
 })
 
-
+if(Platform.mods.advancedperipherals) {
 //And here's the greggy recipies for all the computercraft components:
 ServerEvents.recipes(event => {
 
@@ -83,7 +81,7 @@ ServerEvents.recipes(event => {
   E: "gtceu:quantum_eye",
   });
 
-  if(integrationAE2) {
+  if(Platform.mods.ae2) {
   event.remove({ id: "advancedperipherals:me_bridge" });
   event.shaped("advancedperipherals:me_bridge", ["CDC", "DHD", "WAW"], {
 	C: "#gtceu:circuits/hv",
@@ -94,3 +92,4 @@ ServerEvents.recipes(event => {
   });
   }
 });
+}
