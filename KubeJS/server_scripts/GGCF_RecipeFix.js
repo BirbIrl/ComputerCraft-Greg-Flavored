@@ -124,7 +124,7 @@ event.remove({id: ('computercraft:cable')})
 
 event.remove({output: ('computercraft:disk')}) 
   event.shaped(Item.of("computercraft:disk").withNBT({
-      Color: 1118481,
+      Color: NBT.intTag(1118481),
     }), [" w ", "PIP", "   "], {
 	w: "#forge:tools/wire_cutters",
 	P: "gtceu:polyethylene_plate",
