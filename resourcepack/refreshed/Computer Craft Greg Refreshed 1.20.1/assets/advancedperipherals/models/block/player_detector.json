@@ -2,10 +2,10 @@
   "parent": "computercraft:block/block_front_back",
   "render_type": "cutout",
   "textures": {
-    "side": "computercraft:block/mv_case",
-    "front": "computercraft:block/mv_case",
-    "back": "computercraft:block/mv_case_pattern",
-    "top": "computercraft:block/mv_case",
+    "side": "computercraft:block/hv_case",
+    "front": "computercraft:block/hv_case",
+    "back": "computercraft:block/hv_case_pattern",
+    "top": "computercraft:block/hv_case",
     "overlay": "advancedperipherals:block/player_detector_front"
   },
 	"elements": [

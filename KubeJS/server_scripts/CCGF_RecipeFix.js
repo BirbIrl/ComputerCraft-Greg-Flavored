@@ -241,10 +241,10 @@ ServerEvents.recipes(event => {
 
   event.remove({ id: "advancedperipherals:player_detector" });
   event.shaped("advancedperipherals:player_detector", ["BCB", "CHC", "WSW"], {
-	C: "#gtceu:circuits/mv",
+	C: "#gtceu:circuits/hv",
 	W: "computercraft:cable",
-	H: "gtceu:mv_machine_hull",
-  S: "gtceu:mv_sensor",
+	H: "gtceu:hv_machine_hull",
+  S: "gtceu:hv_sensor",
   B: "minecraft:stone_button"
   });
 
@@ -296,7 +296,7 @@ ServerEvents.recipes(event => {
   event.remove({ id: "advancedperipherals:rs_bridge"});
   event.shaped("advancedperipherals:rs_bridge", ["WAW", "DHD", "CDC"], {
 	C: "#gtceu:circuits/hv",
-	W: "computercraft:cable",
+	W: "refinedstorage:cable",
 	H: "gtceu:hv_machine_hull",
   D: "ae2:fluix_glass_cable",
   A: "gtceu:hv_robot_arm"
