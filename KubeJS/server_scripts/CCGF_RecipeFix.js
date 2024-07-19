@@ -296,9 +296,9 @@ ServerEvents.recipes(event => {
   event.remove({ id: "advancedperipherals:rs_bridge"});
   event.shaped("advancedperipherals:rs_bridge", ["WAW", "DHD", "CDC"], {
 	C: "#gtceu:circuits/hv",
-	W: "refinedstorage:cable",
+	W: "computercraft:cable",
 	H: "gtceu:hv_machine_hull",
-  D: "ae2:fluix_glass_cable",
+  D: "refinedstorage:cable",
   A: "gtceu:hv_robot_arm"
   });
   }
