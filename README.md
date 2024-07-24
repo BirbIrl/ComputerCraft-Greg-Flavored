@@ -27,7 +27,7 @@ CC:GF is ***Also*** as a set of [KubeJS](https://github.com/KubeJS-Mods/KubeJS) 
 
 
 
-Thanks to Dadamalda, as of 1.1 the mod now has [Advanced Peripherals](https://github.com/IntelligenceModding/AdvancedPeripherals) support! The KubeJS scripts adds new recipies and removes a couple unused items. If you're a modpack maker and want to include the script, remember to look through it!
+Thanks to Dadamalda, as of 1.1 the resourcepack now has [Advanced Peripherals](https://github.com/IntelligenceModding/AdvancedPeripherals) support! The KubeJS scripts adds new recipies and removes a couple unused items. If you're a modpack maker and want to include the script, remember to look through it!
 
 
 
