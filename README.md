@@ -14,7 +14,7 @@
 If you're on **Fabric**, [Iris](https://github.com/IrisShaders/Iris) is required with a shader enabled. Why? I have no idea. it just wont work, the render types get all messed up for certain blocks.
 
 
-**ComputerCraft: Greg Flavored** is a family of easily customizable resource packs for [CC: Tweaked](https://github.com/cc-tweaked/CC-Tweaked) (required) that tries to fit the style of [GTCEu: Modern](https://github.com/GregTechCEu/GregTech-Modern) and [GregTech Refreshed](https://github.com/ULSTICK/GregTechRefreshed) (not required) with extra bloom support using [Shimmer](https://github.com/Low-Drag-MC/Shimmer) (optional)
+**ComputerCraft: Greg Flavored** is a family of easily customizable resource packs for [CC: Tweaked](https://github.com/cc-tweaked/CC-Tweaked) (required) that tries to fit the style of [GTCEu: Modern](https://github.com/GregTechCEu/GregTech-Modern) and [GregTech Refreshed](https://github.com/ULSTICK/GregTechRefreshed) (not required) with extra bloom support using [Shimmer](https://github.com/Low-Drag-MC/Shimmer) (optional). As of 1.1 it also supports [Advanced Peripherals](https://github.com/IntelligenceModding/AdvancedPeripherals)
 
 
 
