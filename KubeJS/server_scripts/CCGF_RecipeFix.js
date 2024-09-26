@@ -21,7 +21,7 @@ ServerEvents.recipes(event => {
   event.shaped("computercraft:computer_advanced", ["CMC", "WHW", "CWC"], {
 	C: "#gtceu:circuits/hv",
 	W: "gtceu:gold_single_cable",
-	M: "gtceu:digital_interface_cover",
+	M: "gtceu:computer_monitor_cover",
 	H: "gtceu:hv_machine_hull",
 
   });
@@ -39,7 +39,7 @@ ServerEvents.recipes(event => {
   event.shaped("computercraft:monitor_advanced", ["WMW", "GHG", "WMW"], {
 	G: "#forge:glass",
 	W: "gtceu:gold_single_cable",
-	M: "gtceu:digital_interface_cover",
+	M: "gtceu:computer_monitor_cover",
 	H: "gtceu:hv_machine_hull",
   });
  event.remove({ id: "computercraft:pocket_computer_normal" });
